@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/CarolinaPacifico/AC1-3TRI)
 # Título do Projeto
 Descrição do projeto
 ## Autores
